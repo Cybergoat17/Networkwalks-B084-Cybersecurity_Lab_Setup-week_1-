@@ -1,7 +1,7 @@
 # Networkwalks-B084-Cybersecurity_Lab_Setup-week_1-
 Cybersecurity Lab Setup
 ## 💻 Project Description 
-This project documents the setup of a virtual cybersecurity lab using Oracle VirtualBox and Kali Linux. The goal was to configure a NAT Network, import a Kali Linux virtual machine, and prepare the environment for cybersecurity and ethical hacking practice.
+This project focuses on building a virtual cybersecurity lab with Oracle VirtualBox and Kali Linux. It involved setting up a NAT Network, importing and configuring a Kali Linux virtual machine, and creating a controlled environment for hands-on cybersecurity learning, ethical hacking, and security testing.
 
 ## 📌 Objectives
 - Install and configure Oracle VirtualBox.
@@ -45,10 +45,10 @@ After the initial setup was completed, a VirtualBox snapshot was saved to preser
 
 
 ## Learning Outcomes
-Through this project, I gained practical experience with virtual machine setup, NAT networking, Linux lab configuration, and preparing a controlled environment for cybersecurity practice.
+This project helped me develop hands-on skills in virtual machine deployment, network configuration using NAT, Linux environment setup, and creating a virtual lab for cybersecurity learning and experimentation.
 
 ## Conclusion
-This lab provides a foundation for further hands-on learning in networking, cybersecurity, and ethical hacking.
+This virtual lab serves as a foundation for developing practical skills in networking, cybersecurity, and ethical hacking. Key activities included installing and configuring Oracle VirtualBox, importing and setting up a Kali Linux virtual machine, configuring a NAT Network, and preparing the lab environment for future security testing and hands-on experimentation.
 
 **Project Type:** Cybersecurity Lab Setup  
 **Learning Program:** NetworkWalks Internship
